@@ -19,3 +19,8 @@
 
 
 
+
+# 开启bbr和ssh
+
+
+<pre><code class="language-bash">wget https://raw.githubusercontent.com/cq520/uninstalldun/master/opbbrssh.sh && bash opbbrssh.sh</code></pre>
